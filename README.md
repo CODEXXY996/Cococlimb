@@ -46,5 +46,30 @@ CocoClimb is divided into two main functional sections:
            * Performs cutting using the blade motor.
 
 💡 Why We Built CocoClimb 
+     We chose CocoClimb because coconut harvesting still depends heavily on manual tree climbing,       which is dangerous, tiring, and increasingly difficult due      to   the shortage of skilled climbers.     Our aim was to create a safer and more practical alternative that could reduce physical risk and    support             farmers with a   low-cost semi-automated harvesting solution.
+     
+👥 Target Users / Customer Base
+  CocoClimb is mainly intended for:
+  * coconut farmers
+  * plantation workers
+  * small and medium farm owners
+  * agricultural equipment innovators
+  * rural farming communities looking for safer harvesting solutions.
     
-  We chose CocoClimb because coconut harvesting still depends heavily on manual tree climbing,       which is dangerous, tiring, and increasingly difficult due to the shortage of skilled climbers.     Our aim was to create a safer and more practical alternative that could reduce physical risk and    support farmers with a low-cost semi-automated harvesting solution.
+🚀 Project Features:
+  *  Semi-automated coconut tree climbing concept
+  *  Gravity-based self-clamping wheel mechanism
+  *  Wireless webpage control using ESP8266
+  * Separate climbing and harvesting control modules
+  *  Robotic arm for cutting-position adjustment
+  *  BLDC motor-based cutting mechanism
+  *  Prototype aimed at reducing harvesting risk and manual effort.
+
+     📌 Prototype Outcome
+     The CocoClimb prototype successfully demonstrated the core concept of a semi-automated tree climbing and harvesting system. The project showed how a robotic       platform could grip a coconut tree, be controlled wirelessly, and use a robotic arm for harvesting assistance. It served as a working proof of concept for         safer and more accessible coconut harvesting, while also highlighting areas for future improvement such as grip strength, climbing stability, and cutting          efficiency.
+
+👨‍💻Team / Project Context
+Developed as a student engineering project focused on applying embedded systems, robotics, motor control, and mechanical design to a real agricultural problem.
+<img width="1560" height="1040" alt="WhatsApp Image 2026-06-24 at 9 59 21 PM" src="https://github.com/user-attachments/assets/65d89d20-49da-4e3a-82ff-d1e0d60730e2" />
+Team members: Abhinav Nair, VL Padmanabam, Aswathy S, and Aparna Anand.
+
