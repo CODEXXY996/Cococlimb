@@ -1,6 +1,6 @@
 🌴 CocoClimb – Semi-Automated Coconut Tree Climbing and Harvesting Robot
 
-<img width="720" height="1280" alt="WhatsApp Image 2026-06-24 at 10 00 08 PM" src="https://github.com/user-attachments/assets/1f98445c-33b5-4e1e-9283-81648bfa555b" />
+<img width="1536" height="1204" alt="WhatsApp Image 2026-06-24 at 10 00 08 PM" src="https://github.com/user-attachments/assets/1f98445c-33b5-4e1e-9283-81648bfa555b" />
 
 This repository contains the project files, design approach, and implementation flow for CocoClimb, a semi-automated coconut tree climbing and harvesting robot developed to reduce the difficulty, risk, and labor involved in manual coconut harvesting. The system was designed to climb coconut trees using a gravity-based self-clamping wheel mechanism and assist harvesting through a robotic arm with a cutting motor, making the process safer and more practical for farmers and plantation workers.
 
